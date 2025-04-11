@@ -1,5 +1,5 @@
-modules Api
-  modules V1
+module Api
+  module V1
    class DriversController < ApplicationController
      # all drivers
      def index
