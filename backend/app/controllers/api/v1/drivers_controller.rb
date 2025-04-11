@@ -6,7 +6,6 @@ modules Api
        drivers = Driver.all
        render json: drivers
      end
-  end
 
   def show
     render json: @driver
