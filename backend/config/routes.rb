@@ -14,7 +14,7 @@ Rails.application.routes.draw do
       #  collection do
 
       #  end
-      end
+      #end
     end
   end
 end
