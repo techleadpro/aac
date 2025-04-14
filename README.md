@@ -3,4 +3,11 @@ This application dashboard is to provide the service api to register truck drive
 
 # Instructions on how to run
 You can run the following to setup up the frontend service( since the backend is already live and set to interact with the frontend).
+> bundle config set force_ruby_platform true
+> bundle install
+> rails db:create
+> rails db:migrate
+> rails server
 
+ruby version - ruby 3.4.2 (2025-02-15 revision d2930f8e7a) +PRISM [x86_64-linux]
+rails - Rails 8.0.2
