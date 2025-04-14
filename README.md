@@ -10,7 +10,9 @@ You can run the following to setup up the frontend service( since the backend is
 
 > npm run dev 
 
-This command will run the service and can interact with the application
+Theses commands will run the service and can interact with the application.
+
+
 
 # Backend specific details
 
