@@ -4,6 +4,8 @@ This application dashboard is to provide the service api to register truck drive
 # Instructions on how to run
 You can run the following to setup up the frontend service( since the backend is already live and set to interact with the frontend).
 
+# Backend important details
+
 > bundle config set force_ruby_platform true
 
 > bundle install
