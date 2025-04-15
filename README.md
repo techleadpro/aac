@@ -3,10 +3,12 @@ This application dashboard is to provide the service api to register truck drive
 
 ![car-interface](https://github.com/user-attachments/assets/5678f527-1553-4433-b54b-e277f8a9198d)
 
-car dashboard
+
+# car dashboard
 ![car-dash1](https://github.com/user-attachments/assets/1223d15b-c8ca-43c5-90a2-c17ca4dd3c09)
 
-registration form
+
+# registration form
 ![car-registration](https://github.com/user-attachments/assets/4fdf7189-51ee-4665-8ffb-6151538c77a1)
 
 
