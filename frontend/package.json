@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@master/css": "^2.0.0-rc.61",
+    "@master/css.nuxt": "^2.0.0-rc.61",
+    "@nuxt/image": "^1.10.0",
+    "@supabase/supabase-js": "^2.49.4",
+    "cookie": "^1.0.2",
+    "nuxt": "^3.16.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  }
+}
