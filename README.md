@@ -18,6 +18,7 @@ Theses commands will run the service and can interact with the application.
 The frontend is developed in nuxtjs and vuejs. It is powered by nodejs.
 
 
+
 # Backend specific details
 
 > bundle config set force_ruby_platform true
