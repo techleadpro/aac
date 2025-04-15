@@ -23,7 +23,8 @@ You can run the following to setup up the frontend service( since the backend is
 
 > npm run dev
 
-Then go to browser http://localhost:3000/ or assigned node 
+Then go to browser http://localhost:3000/ or assigned node
+
 
 Theses commands will run the service and can interact with the application.
 
