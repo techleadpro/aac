@@ -13,6 +13,10 @@ You can run the following to setup up the frontend service( since the backend is
 Theses commands will run the service and can interact with the application.
 
 
+# frontend
+
+The frontend is developed in nuxtjs and vuejs. It is powered by nodejs.
+
 
 # Backend specific details
 
