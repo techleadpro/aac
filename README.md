@@ -15,7 +15,7 @@ Then go to browser http://localhost:3000/ or assigned node
 Theses commands will run the service and can interact with the application.
 
 
-# frontend
+# Frontend
 
 The frontend is developed in nuxtjs and vuejs. It is powered by nodejs.
 
